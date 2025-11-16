@@ -1,5 +1,5 @@
 This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
-# Spotify Advanced Sql Project.. 
+# Spotify RhythmIQ Advanced Data Analysis Project.. 
 Project Category: Advanced
 [Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
@@ -64,6 +64,14 @@ After the data is inserted, various SQL queries can be written to explore and an
 In advanced stages, the focus shifts to improving query performance. Some optimization strategies include:
 - **Indexing**: Adding indexes on frequently queried columns.
 - **Query Execution Plan**: Using `EXPLAIN ANALYZE` to review and refine query performance.
+
+### 4. Dashboards
+![Spotify Home](https://github.com/Srivishnuu/Spotify-Data-Analysis-using-SQL/blob/965ee304970beae8f297091592b1ec1ac777b72b/Spotify%20Dashboard%20home%20.jpg )
+
+![Spotify Home](https://github.com/Srivishnuu/Spotify-Data-Analysis-using-SQL/blob/965ee304970beae8f297091592b1ec1ac777b72b/Spotify%20Artist%20Dashboard%20.jpg)
+
+![Spotify Home](https://github.com/Srivishnuu/Spotify-Data-Analysis-using-SQL/blob/965ee304970beae8f297091592b1ec1ac777b72b/Spotify%20Song%20Dashboard%20.jpg)
+
   
 ---
 
